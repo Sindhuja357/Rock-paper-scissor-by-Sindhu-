@@ -9,8 +9,10 @@ This Python script allows users to play the Rock, Paper, Scissors game against a
 ## How to Play
 
 1. Clone the Repository:
+   
 2. Run the Game:
    python rock_paper_scissors.py
+   
 3. Follow On-screen Instructions:
 
 - Enter your choice (Rock, Paper, or Scissors).
@@ -18,6 +20,7 @@ This Python script allows users to play the Rock, Paper, Scissors game against a
 - The computer opponent will randomly choose its move.
   
 - The game will announce the winner of each round.
+  
   
 4. Enjoy the Game!
 
